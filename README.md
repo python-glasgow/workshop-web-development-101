@@ -1,4 +1,4 @@
-# Python Glasgow Workshop
+# Workshop 🏭
 
 ## Web Development 101
 
