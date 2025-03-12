@@ -129,4 +129,3 @@ def form_route():
 
 Visiting the `/form` route you'll be able to send data from the html form to
 the same route.
-

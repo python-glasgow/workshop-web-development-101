@@ -34,4 +34,3 @@ def player():
         "class": "Wizard"
     }
 ```
-
