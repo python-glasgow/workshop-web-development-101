@@ -1,4 +1,4 @@
-# templates and endpoints
+# Templates and endpoints
 
 Edit `app.py` to look like the following:
 
