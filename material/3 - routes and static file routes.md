@@ -60,7 +60,7 @@ flask run --debug
 
 Now visit the following link:
 
-[http://127.0.0.1:5000/static/robot.git](http://127.0.0.1:5000/static/robot.git)
+[http://127.0.0.1:5000/static/robot.gif](http://127.0.0.1:5000/static/robot.gif)
 
 Notice that Flask prepends `/static/` to this route, this is to make it clear
 that it is a static file. You can change this by changing the `static_url_path`
