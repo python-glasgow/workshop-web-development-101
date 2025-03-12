@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Page</title>
+</head>
+<body>
+    <header>
+        <h1>Form Values</h1>
+    </header>
+    <main>
+
+        <p>First Name: {{ first_name }}</p>
+        <p>Last Name: {{ last_name }}</p>
+
+        <p><a href="{{ url_for('form_route') }}"><- Back to form</a></p>
+    </main>
+    <footer>
+        <p>Python Workshop - Web Development 101</p>
+    </footer>
+</body>
+</html>
